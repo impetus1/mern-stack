@@ -1,0 +1,22 @@
+{
+  "name": "mern-backend",
+  "version": "4.2.2",
+  "description": "for the express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ivan Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.29",
+    "mongoose": "4.10.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  }
+}
